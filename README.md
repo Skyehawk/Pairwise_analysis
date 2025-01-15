@@ -48,7 +48,7 @@ Basic usage:
 python pairwise_analysis.py comparisons.csv
 ```
 
-Output full results in JSON format:
+Output full results in JSON format (may be broken at the moment):
 ```bash
 python pairwise_analysis.py comparisons.csv --json
 ```
