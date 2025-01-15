@@ -93,7 +93,7 @@ Average: 3.0 comparisons per team
 
 WARNINGS
 ----------------------------------------
-⚠️ Teams with few comparisons: [1114]
+Teams with few comparisons: [1114]
 
 SUGGESTIONS
 ----------------------------------------
